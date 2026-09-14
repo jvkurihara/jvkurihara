@@ -34,4 +34,4 @@ Sou um(a) estudante e desenvolvedor(a) apaixonado(a) por tecnologia, programaç�
 
 ## 🔗 Redes e Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-victor-kurihara-90a3a6347)
